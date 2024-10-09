@@ -39,6 +39,7 @@ We have implemented a simple search functionality.
 
 
 
+![watches](https://github.com/user-attachments/assets/47da2bad-3f18-437e-bd7d-02a6972c5c86)
 
 
 
